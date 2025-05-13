@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[test is pass]]>
-    </line>
   </reporter-output>
-  <suite started-at="2025-05-12T15:16:26 IST" name="Default suite" finished-at="2025-05-12T15:16:59 IST" duration-ms="33668">
+  <suite started-at="2025-05-13T12:48:53 IST" name="Suite" finished-at="2025-05-13T12:49:10 IST" duration-ms="16685">
     <groups>
     </groups>
-    <test started-at="2025-05-12T15:16:26 IST" name="Default test" finished-at="2025-05-12T15:16:59 IST" duration-ms="33668">
-      <class name="mavenSelenium.seleniumMaventest.Testcase4">
-        <test-method is-config="true" signature="Launch()[pri:0, instance:mavenSelenium.seleniumMaventest.Testcase4@2a65fe7c]" started-at="2025-05-12T15:16:26 IST" name="Launch" finished-at="2025-05-12T15:16:33 IST" duration-ms="7414" status="PASS">
+    <test started-at="2025-05-13T12:48:53 IST" name="Test" finished-at="2025-05-13T12:49:10 IST" duration-ms="16685">
+      <class name="mavenSelenium.seleniumMaventest.Testcase3">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:mavenSelenium.seleniumMaventest.Testcase3@145f66e3]" started-at="2025-05-13T12:48:53 IST" name="Launch" finished-at="2025-05-13T12:49:04 IST" duration-ms="10826" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launch -->
-        <test-method signature="Profileedit()[pri:0, instance:mavenSelenium.seleniumMaventest.Testcase4@2a65fe7c]" started-at="2025-05-12T15:16:33 IST" name="Profileedit" finished-at="2025-05-12T15:16:58 IST" duration-ms="25127" status="PASS">
+        <test-method signature="Logindata()[pri:1, instance:mavenSelenium.seleniumMaventest.Testcase3@145f66e3]" started-at="2025-05-13T12:49:04 IST" name="Logindata" finished-at="2025-05-13T12:49:09 IST" duration-ms="4898" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[test is pass]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- Profileedit -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:mavenSelenium.seleniumMaventest.Testcase4@2a65fe7c]" started-at="2025-05-12T15:16:58 IST" name="quit" finished-at="2025-05-12T15:16:59 IST" duration-ms="1096" status="PASS">
+        </test-method> <!-- Logindata -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:mavenSelenium.seleniumMaventest.Testcase3@145f66e3]" started-at="2025-05-13T12:49:09 IST" name="quit" finished-at="2025-05-13T12:49:10 IST" duration-ms="919" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-      </class> <!-- mavenSelenium.seleniumMaventest.Testcase4 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- mavenSelenium.seleniumMaventest.Testcase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
